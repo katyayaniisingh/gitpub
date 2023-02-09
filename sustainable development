@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Sustainable Development Club at OFS</title>
+    <style>
+      /* Add some basic styling to the website */
+      body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+      }
+      header {
+        background-color: lightgray;
+        padding: 20px;
+        text-align: center;
+      }
+      header h1 {
+        margin: 0;
+      }
+      section {
+        padding: 20px;
+      }
+      .container {
+        max-width: 800px;
+        margin: 0 auto;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <div class="container">
+        <h1>Sustainable Development Club at OFS</h1>
+      </div>
+    </header>
+    <section>
+      <div class="container">
+        <p>Welcome to the Sustainable Development Club at OFS website! We are a group of students dedicated to promoting sustainability and environmental awareness on campus and in our local community. Our mission is to create a more sustainable future for all.</p>
+        <p>We hold regular meetings, events, and projects to achieve our goals. If you're interested in joining us, please contact us at [email protected] for more information.</p>
+      </div>
+    </section>
+  </body>
+</html>
